@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It becomes a git repo.  If it isn't done, then it's not a repository.
+
+

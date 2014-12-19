@@ -1,0 +1,20 @@
+Diff allows one to see the differences between files within their context.  That is, diff shows lines before and after a difference and the difference itself.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+It's easier than saving different documents with different names.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+Manually choosing lets the user choose when to commit and the user is metter able to determine what should constitite a commit.  Automatic commits are good in that you'll never forget a commit but they may be done at the most inopportune time.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Git kind of over does the commits but it's better to be safe than sorry.  I believe that diffs between files are very small so there's no reason not to do many commits.
+`
+How can you use the commands git log and git diff to view the history of files?
+
+git log will give the user an overview of the changes whereas git diff will show the actual changes which were made.
+
+How might using version control make you more confident to make changes that could break something?
+if a bug is introduced, it's easy to undo it at this point.
+
