@@ -12,3 +12,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 run diff --staged and notice what has been added.
 
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches would be helpful when making test changes, performing experiments, or other things where keeping a main branch
+while working a separate branch would make sense.  Branches allow changes to be made and then possibly merged at a later time.
