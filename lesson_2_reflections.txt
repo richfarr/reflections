@@ -2,4 +2,13 @@ What happens when you initialize a repository? Why do you need to do it?
 
 It becomes a git repo.  If it isn't done, then it's not a repository.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+the working directory is on the computer and is where the files live whereas the staging area is where files are put before being committed.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+run diff --staged and notice what has been added.
+
 
